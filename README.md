@@ -2,7 +2,7 @@
 - 👀 I’m interested in Selenium Automation role using Java, SQL
 - 🌱 I’m currently learning API Automation
 - 💞️ I’m looking to collaborate on...
-- 📫 reach me by dailing 8861952143
+- 📫 reach me by dailing 8861952143 or Email: bschethan365@gmail.com
 
 <!---
 chethanbelursrinivas/chethanbelursrinivas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
